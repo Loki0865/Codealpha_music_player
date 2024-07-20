@@ -1,1 +1,1 @@
-# this ia a music player project using HTML,CSS & javascript
+# this is a music player project using HTML,CSS & javascript
